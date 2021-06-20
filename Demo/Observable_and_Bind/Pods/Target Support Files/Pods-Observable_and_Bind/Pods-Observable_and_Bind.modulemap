@@ -1,0 +1,6 @@
+framework module Pods_Observable_and_Bind {
+  umbrella header "Pods-Observable_and_Bind-umbrella.h"
+
+  export *
+  module * { export * }
+}
